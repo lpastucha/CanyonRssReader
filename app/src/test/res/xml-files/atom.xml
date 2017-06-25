@@ -1,0 +1,23 @@
+
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+			<title>CHIP - Chip</title> 
+            <link rel="self" href="http://www.chip.pl/RSS" />
+            <updated>2017-06-07T16:10:00Z</updated>
+            <author><name>Chip</name></author>
+            <id>http://www.chip.pl/RSS</id>
+
+            <entry>
+				<title>CHIP: ESET też ma problem z Windows Defenderem</title>
+                <link href="http://www.chip.pl/news/wydarzenia/prawo-i-polityka/2017/06/inni-producenci-zgadzaja-sie-z-zarzutami-wobec-microsoftu" />
+                <id>http://www.chip.pl/news/wydarzenia/prawo-i-polityka/2017/06/inni-producenci-zgadzaja-sie-z-zarzutami-wobec-microsoftu</id>
+				<summary type="html">
+   					
+					
+					<![CDATA[
+      				Jak ustaliliśmy, po Kaspersky'm teraz ESET i Dr.Web skarżą się na Microsoft. Rosyjska firma zawiadomiła Komisję Europejską, że twórca systemu operacyjnego stosuje praktyki monopolistyczne. Chodzi o celowe utrudnianie użytkownikom korzystania z innych zabezpieczeń niż domyślny Defender. Microsoft zaprzecza, zapewniając, że dba o bezpieczeństwo użytkowników.
+      				]]>
+				</summary>
+                <updated>2017-06-07T16:10:00Z</updated>
+            </entry> 
+</feed>

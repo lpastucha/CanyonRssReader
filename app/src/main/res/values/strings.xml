@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">CanyonRssReader</string>
+    <string name="title_activity_main">Canyone RSS Reader</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="menuItem_1">Show all feeds</string>
+    <string name="menuItem_2">Manage feeds</string>
+    <string name="menuItem_3">About me</string>
+
+    <string name="feed_menu_add">Add new Feed</string>
+    <string name="feed_menu_remove">Remove Feed</string>
+
+    <string name="feed_add_hint">Type RSS Feed url</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_author">Created by Łukasz Pastucha and Bartosz Jedynak</string>
+
+    <string name="version">v.1.0</string>
+    <string name="feed_title">Feed title</string>
+    <string name="feedTitleHint">Type feed title</string>
 </resources>
