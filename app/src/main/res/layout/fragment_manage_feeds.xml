@@ -1,0 +1,43 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="layout.ManageFeeds">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/feed_title"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/rssFeedTitle"
+                android:inputType="textUri"
+                android:hint="@string/feedTitleHint"
+                android:paddingTop="40dp"/>
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/rssFeedUrl"
+                android:inputType="textUri"
+                android:text="http://www.chip.pl/RSS"
+                android:hint="@string/feed_add_hint"
+                android:paddingTop="40dp"/>
+            <Button
+                android:id="@+id/parseButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/feed_menu_add"
+                />
+
+        </LinearLayout>
+
+</FrameLayout>
+
+

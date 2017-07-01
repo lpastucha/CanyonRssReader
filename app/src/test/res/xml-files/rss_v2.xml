@@ -1,0 +1,33 @@
+<rss version="2.0">
+	<channel>
+		<title>Money.pl</title>
+		<description>Portal finansowy nr 1 w Polsce</description>
+		<link>http://www.money.pl/</link>
+		<lastBuildDate/>
+		<image>
+			<url>http://www.money.pl/i/money150_62.gif</url>
+			<width>150</width>
+			<height>62</height>
+			<link>http://www.money.pl/</link>
+			<title>Money.pl</title>
+		</image>
+		<generator>MoneyCMS_RSS</generator>
+		<language>pl</language>
+		<copyright>Money.pl</copyright>
+		<item>
+			<title>
+				<![CDATA[ Zaczęło się Katarem, kończy ze smutną May ]]>
+			</title>
+			<link>
+				http://www.money.pl/adrss/artykul,2331967.html#utm_source=rss&utm_medium=rss&utm_campaign=rss
+			</link>
+			<id>2331967</id>
+			<description>
+				<![CDATA[
+				<img align="right" style="margin-bottom: 5px; margin-left: 5px" width="58" src="http://static1.money.pl/i/h/241/t333553.jpg" /> Mijający tydzień miał na giełdach trzy punkty kulminacyjne. Dwa z nich o zasięgu światowym, które mogły wprawić w ruch potężny kapitał. To poniedziałek z Katarem, a czwartek z trzema mocnymi wydarzeniami z USA, Wielkiej Brytanii i strefy euro. Drugi lokalny, o finalizacji przejęcia Pekao przez PZU.
+				]]>
+			</description>
+			<pubDate>Fri, 09 Jun 2017 17:44:12 +0200</pubDate>
+		</item>
+	</channel>
+</rss>
