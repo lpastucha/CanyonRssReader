@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all_feeds"
+            android:icon="@drawable/ic_rss"
+            android:title="@string/menuItem_1"
+            android:checked="true"/>
+        <item
+            android:id="@+id/nav_feed_manager"
+            android:icon="@drawable/ic_manage_feeds"
+            android:title="@string/menuItem_2" />
+        <item
+            android:id="@+id/nav_about_author"
+            android:icon="@drawable/ic_about_authot"
+            android:title="@string/menuItem_3" />
+    </group>
+
+</menu>
